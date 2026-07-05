@@ -1,0 +1,27 @@
+# Task: Premium Subscription System Implementation
+
+- [/] Research and Architecture Design
+	- [x] Analyze requirements
+	- [x] Design Firestore schema and Cloud Functions logic
+	- [/] Design Streak and Word Count logic
+- [/] Dependency Setup
+	- [ ] Update `libs.versions.toml` and `build.gradle.kts`
+	- [ ] Add Billing Library and required Firebase dependencies
+- [ ] Core Data Layer
+	- [ ] Create Data Classes (Subscription, Order, Analytics, Streak)
+	- [ ] Implement `FirestoreManager` for data sync (Premium, Streak, Words)
+	- [ ] Implement `BillingManager` (Google Play Billing wrapper)
+- [ ] Domain & Presentation Layer
+	- [ ] Create `BillingRepository`
+	- [ ] Implement `PremiumViewModel`
+	- [ ] Build/Enhance `PaywallScreen` UI
+	- [/] Implement Streak logic in `MainViewModel` or `LoginViewModel`
+	- [/] Enhance `VocabularyScreen` with Folder Selection and Drag & Drop
+	- [/] Update `ProfileScreen` with real-time stats and Sign Out
+- [ ] Security & Backend
+	- [ ] Write Firestore Security Rules
+	- [ ] Create Firebase Cloud Function for Purchase Verification
+- [ ] Integration & Testing
+	- [ ] Provide Play Console setup guide
+	- [ ] Implement fake repository for sandbox testing
+- [ ] Documentation & Final Walkthrough

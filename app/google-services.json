@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095557673617",
+    "project_id": "appngonngu-df4a7",
+    "storage_bucket": "appngonngu-df4a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095557673617:android:e35c3f9ff366c9e8490530",
+        "android_client_info": {
+          "package_name": "com.example.appngonngu.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095557673617-jic9dekt8g8l4k5b5p8jkv11fo89bht8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appngonngu.pro",
+            "certificate_hash": "8e0df63bc95979b87e29aba18bd47f11ee2b1142"
+          }
+        },
+        {
+          "client_id": "1095557673617-bi3el1bo4c6dn3a8oi1lkm9vcirmr03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxAui9ZM62j69IZ9Pgmpycmi-1oVkNac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095557673617-bi3el1bo4c6dn3a8oi1lkm9vcirmr03i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
